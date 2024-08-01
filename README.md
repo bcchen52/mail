@@ -1,4 +1,4 @@
-# mail
+# Mail
 
 Mail is a single-page email application that allows users to send emails to each other through API calls.
 
