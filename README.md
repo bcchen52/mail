@@ -4,10 +4,12 @@ Mail is a single-page email application that allows users to send emails to each
 
 Users send and interact with emails through the front-end and JavaScript, which makes API calls with Django. Users can send, archive, and reply to emails.
 
-Mail is project 3 from Harvard University's CS50W. 
+Mail is project 3 from Harvard University's CS50W, and the back-end was provided with the starter code. 
 
-## Table of contents
-
+#### Table of contents
+- [Functionality and Features](#functionality-and-features)
+- [Requirements](#requirements)
+- [How To Use](#how-to-use)
 
 ## Functionality and Features
 
